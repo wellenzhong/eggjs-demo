@@ -1,0 +1,1048 @@
+2018-07-02 10:30:57,279 ERROR 1819 nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 1819
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:31:01,233 ERROR 1819 nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 1819
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:31:02,888 ERROR 1819 nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 1819
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:31:03,284 ERROR 1819 nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 1819
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:31:11,330 ERROR 1823 nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 1823
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:31:12,327 ERROR 1823 nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: ''
+expected: true
+operator: '=='
+pid: 1823
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:33:31,923 ERROR 1835 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1835
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:33:32,924 ERROR 1835 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1835
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:33:33,243 ERROR 1835 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1835
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:37:01,512 ERROR 1838 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1838
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:37:02,439 ERROR 1838 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1838
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:39:13,587 ERROR 1850 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1850
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:39:14,363 ERROR 1850 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1850
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:39:14,820 ERROR 1850 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1850
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:39:15,181 ERROR 1850 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1850
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:50,584 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:50,949 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:51,271 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:51,625 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:51,845 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:52,165 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:55,349 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:40:56,680 ERROR 1855 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1855
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:50:22,124 ERROR 1989 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1989
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:50:23,021 ERROR 1989 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1989
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:50:23,532 ERROR 1989 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1989
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:50:52,945 ERROR 1995 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejstpl"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1995
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:50:53,764 ERROR 1995 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejstpl"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1995
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:00,359 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:01,108 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:01,575 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:01,995 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:02,314 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:02,633 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:02,953 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:03,335 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:03,550 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:03,869 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:04,210 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:04,538 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:04,847 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:05,163 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:05,517 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:05,837 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:05,849 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:06,156 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:06,479 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:06,797 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:07,159 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:07,167 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:07,481 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:07,794 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:07,801 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:07,802 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:08,125 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:08,132 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:51:08,133 ERROR 1996 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 1996
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:53:49,396 ERROR 2007 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2007
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:53:50,271 ERROR 2007 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2007
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:53:50,776 ERROR 2007 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2007
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:54:30,208 ERROR 2009 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2009
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 10:55:17,268 ERROR 2013 nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "ejs"
+    at ContextView.[contextView#getViewEngine] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:69:39)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2013
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 11:00:29,993 ERROR 2044 nodejs.AssertionError [ERR_ASSERTION]: Can't find app/view/index.ejs from /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view
+    at Map.resolve (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2044
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 11:00:30,406 ERROR 2044 nodejs.AssertionError [ERR_ASSERTION]: Can't find app/view/index.ejs from /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view
+    at Map.resolve (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2044
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 11:00:30,734 ERROR 2044 nodejs.AssertionError [ERR_ASSERTION]: Can't find app/view/index.ejs from /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view
+    at Map.resolve (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2044
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 11:00:31,081 ERROR 2044 nodejs.AssertionError [ERR_ASSERTION]: Can't find app/view/index.ejs from /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view
+    at Map.resolve (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 2044
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 11:53:18,626 ERROR 2379 [-/::1/-/483ms GET /tpl] nodejs.TypeError: res.text is not a function
+    at IndexController.template (/Users/wellenzhong/frontend/practice/eggdemo-simple/app/controller/index.js:11:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 2379
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 13:59:11,754 ERROR 2605 [-/::1/-/497ms GET /tpl] nodejs.TypeError: /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs:3
+    1| <div>
+    2|     <ul>
+ >> 3|     <%listdata.map((item,index)=>{%>
+    4|     <li><% item.name  %></li>
+    5|     <%})%>
+    6|     </ul>
+
+listdata.map is not a function
+    1| <div>
+    2|     <ul>
+ >> 3|     <%listdata.map((item,index)=>{%>
+    4|     <li><% item.name  %></li>
+    5|     <%})%>
+    6|     </ul>
+
+listdata.map is not a function
+    at eval (eval at compile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:618:12), <anonymous>:11:16)
+    at returnedFn (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:653:17)
+    at tryHandleCache (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:251:36)
+    at Object.exports.renderFile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:482:10)
+    at Promise (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:15:12)
+    at EjsView.render (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:28:36)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+path: '/Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs'
+pid: 2605
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 13:59:39,638 ERROR 2605 [-/::1/-/195ms GET /tpl] nodejs.TypeError: /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs:3
+    1| <div>
+    2|     <ul>
+ >> 3|     <% listdata.map((item,index)=>{ %>
+    4|     <li><% item.name  %></li>
+    5|     <% }) %>
+    6|     </ul>
+
+listdata.map is not a function
+    1| <div>
+    2|     <ul>
+ >> 3|     <% listdata.map((item,index)=>{ %>
+    4|     <li><% item.name  %></li>
+    5|     <% }) %>
+    6|     </ul>
+
+listdata.map is not a function
+    at eval (eval at compile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:618:12), <anonymous>:11:17)
+    at returnedFn (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:653:17)
+    at tryHandleCache (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:251:36)
+    at Object.exports.renderFile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:482:10)
+    at Promise (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:15:12)
+    at EjsView.render (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:28:36)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+path: '/Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs'
+pid: 2605
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 14:00:02,237 ERROR 2605 [-/::1/-/295ms GET /tpl] nodejs.TypeError: /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs:3
+    1| <div>
+    2|    <ul>
+ >> 3|         <% listdata.map(function (item,index) {%>
+    4|             <li>
+    5|                 <%= item.name %>
+    6|             </li>
+
+listdata.map is not a function
+    1| <div>
+    2|    <ul>
+ >> 3|         <% listdata.map(function (item,index) {%>
+    4|             <li>
+    5|                 <%= item.name %>
+    6|             </li>
+
+listdata.map is not a function
+    at eval (eval at compile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:618:12), <anonymous>:11:17)
+    at returnedFn (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:653:17)
+    at tryHandleCache (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:251:36)
+    at Object.exports.renderFile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:482:10)
+    at Promise (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:15:12)
+    at EjsView.render (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:28:36)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+path: '/Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs'
+pid: 2605
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 14:00:04,212 ERROR 2605 [-/::1/-/97ms GET /tpl] nodejs.TypeError: /Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs:3
+    1| <div>
+    2|    <ul>
+ >> 3|         <% listdata.map(function (item,index) {%>
+    4|             <li>
+    5|                 <%= item.name %>
+    6|             </li>
+
+listdata.map is not a function
+    1| <div>
+    2|    <ul>
+ >> 3|         <% listdata.map(function (item,index) {%>
+    4|             <li>
+    5|                 <%= item.name %>
+    6|             </li>
+
+listdata.map is not a function
+    at eval (eval at compile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:618:12), <anonymous>:11:17)
+    at returnedFn (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:653:17)
+    at tryHandleCache (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:251:36)
+    at Object.exports.renderFile (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_ejs@2.6.1@ejs/lib/ejs.js:482:10)
+    at Promise (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:15:12)
+    at EjsView.render (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/lib/view.js:28:36)
+    at ContextView.[contextView#render] (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+path: '/Users/wellenzhong/frontend/practice/eggdemo-simple/app/view/index.ejs'
+pid: 2605
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 15:07:30,933 ERROR 3046 [-/::1/-/5053ms GET /tpl] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":13,"createSocketErrorCount":0,"closeSocketCount":13,"errorSocketCount":0,"timeoutSocketCount":12,"requestCount":14,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:815:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: 'ResponseTimeoutError'
+requestId: 15
+data: undefined
+path: '/mock/5b31b7195b00583c51b94987/test1/list'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5052, keepAliveSocket: false, data: undefined, requestUrls: [ 'https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list' ], timing: null, remoteAddress: '120.27.128.131', remotePort: 443 }
+pid: 3046
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 15:07:47,331 ERROR 3046 [-/::1/-/5039ms GET /tpl] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":14,"createSocketErrorCount":0,"closeSocketCount":14,"errorSocketCount":0,"timeoutSocketCount":12,"requestCount":14,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:815:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: 'ResponseTimeoutError'
+requestId: 16
+data: undefined
+path: '/mock/5b31b7195b00583c51b94987/test1/list'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5039, keepAliveSocket: false, data: undefined, requestUrls: [ 'https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list' ], timing: null, remoteAddress: '120.27.128.131', remotePort: 443 }
+pid: 3046
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 15:08:08,936 ERROR 3046 [-/::1/-/5039ms GET /tpl] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":15,"createSocketErrorCount":0,"closeSocketCount":15,"errorSocketCount":0,"timeoutSocketCount":12,"requestCount":14,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:815:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: 'ResponseTimeoutError'
+requestId: 17
+data: undefined
+path: '/mock/5b31b7195b00583c51b94987/test1/list'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5039, keepAliveSocket: false, data: undefined, requestUrls: [ 'https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list' ], timing: null, remoteAddress: '120.27.128.131', remotePort: 443 }
+pid: 3046
+hostname: wellendeMacBook-Pro.local
+
+2018-07-02 15:10:14,035 ERROR 3046 [-/::1/-/5037ms GET /tpl] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":16,"createSocketErrorCount":0,"closeSocketCount":16,"errorSocketCount":0,"timeoutSocketCount":12,"requestCount":14,"freeSockets":{},"sockets":{},"requests":{}})
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:815:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: 'ResponseTimeoutError'
+requestId: 18
+data: undefined
+path: '/mock/5b31b7195b00583c51b94987/test1/list'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 5036, keepAliveSocket: false, data: undefined, requestUrls: [ 'https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list' ], timing: null, remoteAddress: '120.27.128.131', remotePort: 443 }
+pid: 3046
+hostname: wellendeMacBook-Pro.local
+

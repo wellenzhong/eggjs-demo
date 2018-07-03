@@ -1,0 +1,22 @@
+2018-07-02 13:54:04,173 WARN 2584 [-/::1/-/38ms GET /tpl] nodejs.JSONResponseFormatError: Unexpected token S in JSON at position 0 (data json format: "Sometimes You Just Have to Slow Down."), GET https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list 429 (connected: true, keepalive socket: true, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":2,"freeSockets":{},"sockets":{"www.easy-mock.com:443:::::::::":1},"requests":{}})
+headers: {"server":"Tengine","date":"Mon, 02 Jul 2018 05:54:04 GMT","content-type":"text/plain; charset=utf-8","content-length":"37","connection":"keep-alive","x-request-id":"e0aebcc3-0993-4b8e-83ec-55e158faec33","vary":"Origin","rate-limit-remaining":"0","rate-limit-reset":"1530510844","rate-limit-total":"2","retry-after":"0"}
+headers: {"server":"Tengine","date":"Mon, 02 Jul 2018 05:54:04 GMT","content-type":"text/plain; charset=utf-8","content-length":"37","connection":"keep-alive","x-request-id":"e0aebcc3-0993-4b8e-83ec-55e158faec33","vary":"Origin","rate-limit-remaining":"0","rate-limit-reset":"1530510844","rate-limit-total":"2","retry-after":"0"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:1006:24)
+    at /Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:758:23
+    at decodeContent (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:571:14)
+    at IncomingMessage.<anonymous> (/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_urllib@2.28.1@urllib/lib/urllib.js:739:7)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: 'JSONResponseFormatError'
+data: 'Sometimes You Just Have to Slow Down.'
+path: '/mock/5b31b7195b00583c51b94987/test1/list'
+status: 429
+headers: { server: 'Tengine', date: 'Mon, 02 Jul 2018 05:54:04 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '37', connection: 'keep-alive', 'x-request-id': 'e0aebcc3-0993-4b8e-83ec-55e158faec33', vary: 'Origin', 'rate-limit-remaining': '0', 'rate-limit-reset': '1530510844', 'rate-limit-total': '2', 'retry-after': '0' }
+res: { status: 429, statusCode: 429, headers: { server: 'Tengine', date: 'Mon, 02 Jul 2018 05:54:04 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '37', connection: 'keep-alive', 'x-request-id': 'e0aebcc3-0993-4b8e-83ec-55e158faec33', vary: 'Origin', 'rate-limit-remaining': '0', 'rate-limit-reset': '1530510844', 'rate-limit-total': '2', 'retry-after': '0' }, size: 37, aborted: false, rt: 37, keepAliveSocket: true, data: 'Sometimes You Just Have to Slow Down.', requestUrls: [ 'https://www.easy-mock.com/mock/5b31b7195b00583c51b94987/test1/list' ], timing: null, remoteAddress: '120.27.128.131', remotePort: 443 }
+pid: 2584
+hostname: wellendeMacBook-Pro.local
+

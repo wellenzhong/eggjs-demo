@@ -1,0 +1,288 @@
+{
+  "view": {
+    "defaultViewEngine": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "defaultExtension": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "root": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "mapping": {
+      ".ejs": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js"
+    },
+    "cache": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js"
+  },
+  "static": {
+    "prefix": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "dir": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "dynamic": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "preload": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "maxAge": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "buffer": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+    "maxFiles": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+  },
+  "keys": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+  "middleware": "/Users/wellenzhong/frontend/practice/eggdemo-simple/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "useSession": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "cookieName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "sessionName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "headerName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "bodyName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "queryName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.local.js",
+      "maxAge": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "value": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "policy": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js",
+      "checkAddress": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-security@2.2.2@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "files": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-multipart@2.0.0@egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-development@2.3.1@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-development@2.3.1@egg-development/config/config.default.js",
+    "fastReady": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-development@2.3.1@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-development@2.3.1@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-development@2.3.1@egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js",
+      "file": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-schedule@3.3.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "ejs": {
+    "root": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
+    "cache": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.local.js",
+    "debug": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
+    "compileDebug": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
+    "delimiter": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
+    "strict": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js"
+  },
+  "env": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "name": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "proxy": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "protocolHeaders": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "ipHeaders": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "hostHeaders": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "version": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "description": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "private": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "egg-scripts": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "egg-static": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "egg-view-ejs": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "ejs": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "autod-egg": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "egg-bin": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "egg-ci": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "egg-mock": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "eslint": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "stop": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "dev": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "debug": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "test": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "test-local": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "cov": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "lint": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "ci": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "autod": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "url": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "author": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "license": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "HOME": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "rundir": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "notFound": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "sitefile": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "middlewares": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "httpClient": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "encoding": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "formLimit": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "jsonLimit": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "strict": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "depth": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "parameterLimit": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "encoding": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "env": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "level": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "consoleLevel": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "outputJSON": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "buffer": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "appLogName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "coreLogName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "agentLogName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "errorLogName": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "maxSockets": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "maxSockets": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "logging": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "port": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+      "hostname": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js",
+    "responseTimeout": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wellenzhong/frontend/practice/eggdemo-simple/node_modules/_egg@2.9.1@egg/config/config.default.js"
+}

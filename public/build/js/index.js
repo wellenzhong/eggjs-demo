@@ -1,0 +1,1 @@
+"use strict";function sayhello(){console.log("hello world! from index.js")}sayhello();var fn=function(o){console.log(o)};fn();
